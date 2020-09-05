@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/VKMA_Anime/static/css/main.942729e1.chunk.css",
+    "main.js": "/VKMA_Anime/static/js/main.313d1cc0.chunk.js",
+    "main.js.map": "/VKMA_Anime/static/js/main.313d1cc0.chunk.js.map",
+    "runtime-main.js": "/VKMA_Anime/static/js/runtime-main.7710cc93.js",
+    "runtime-main.js.map": "/VKMA_Anime/static/js/runtime-main.7710cc93.js.map",
+    "static/css/2.1e562f28.chunk.css": "/VKMA_Anime/static/css/2.1e562f28.chunk.css",
+    "static/js/2.f74db064.chunk.js": "/VKMA_Anime/static/js/2.f74db064.chunk.js",
+    "static/js/2.f74db064.chunk.js.map": "/VKMA_Anime/static/js/2.f74db064.chunk.js.map",
+    "index.html": "/VKMA_Anime/index.html",
+    "precache-manifest.01d5e2d41a36eb204de77214780087fd.js": "/VKMA_Anime/precache-manifest.01d5e2d41a36eb204de77214780087fd.js",
+    "service-worker.js": "/VKMA_Anime/service-worker.js",
+    "static/css/2.1e562f28.chunk.css.map": "/VKMA_Anime/static/css/2.1e562f28.chunk.css.map",
+    "static/css/main.942729e1.chunk.css.map": "/VKMA_Anime/static/css/main.942729e1.chunk.css.map",
+    "static/js/2.f74db064.chunk.js.LICENSE.txt": "/VKMA_Anime/static/js/2.f74db064.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/VKMA_Anime/static/media/1.eadb269a.png",
+    "static/media/10.png": "/VKMA_Anime/static/media/10.fc755b70.png",
+    "static/media/11.png": "/VKMA_Anime/static/media/11.e306a11c.png",
+    "static/media/12.png": "/VKMA_Anime/static/media/12.4d97dd1b.png",
+    "static/media/13.png": "/VKMA_Anime/static/media/13.2c2927b7.png",
+    "static/media/14.png": "/VKMA_Anime/static/media/14.982931fc.png",
+    "static/media/15.png": "/VKMA_Anime/static/media/15.482ef09f.png",
+    "static/media/16.png": "/VKMA_Anime/static/media/16.71fd4d96.png",
+    "static/media/2.png": "/VKMA_Anime/static/media/2.c31726ab.png",
+    "static/media/3.png": "/VKMA_Anime/static/media/3.c6ad33af.png",
+    "static/media/4.png": "/VKMA_Anime/static/media/4.63df1b1a.png",
+    "static/media/5.png": "/VKMA_Anime/static/media/5.f80f31d2.png",
+    "static/media/6.png": "/VKMA_Anime/static/media/6.a051ae3d.png",
+    "static/media/7.png": "/VKMA_Anime/static/media/7.5361fa08.png",
+    "static/media/8.png": "/VKMA_Anime/static/media/8.fa246997.png",
+    "static/media/9.png": "/VKMA_Anime/static/media/9.ebfaf017.png",
+    "static/media/result.png": "/VKMA_Anime/static/media/result.55977f6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7710cc93.js",
+    "static/css/2.1e562f28.chunk.css",
+    "static/js/2.f74db064.chunk.js",
+    "static/css/main.942729e1.chunk.css",
+    "static/js/main.313d1cc0.chunk.js"
+  ]
+}
